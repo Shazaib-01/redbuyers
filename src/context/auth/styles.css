@@ -1,0 +1,22 @@
+/** @format */
+
+#section-center {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.browse-text {
+  font-size: 32px;
+  font-weight: 700;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.browser-text {
+  font-size: 15px;
+  font-weight: 500;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
